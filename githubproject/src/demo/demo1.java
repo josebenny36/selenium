@@ -7,6 +7,7 @@ public class demo1 {
 		int num1 = 5, num2 = 10, sum;
 	      sum = num1 + num2;
 	      System.out.println("The sum of " + num1 + " and " + num2 + " is " + sum);
+	      System.out.println("thanku");
 	}
 
 }
